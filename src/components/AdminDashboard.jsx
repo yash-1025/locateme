@@ -8,13 +8,13 @@ const AdminDashboard = () => {
     {
       name: 'John Doe',
       location: 'Chicago',
-      photo: 'https://via.placeholder.com/100',
+      photo: '',
       friends: ['Jane Smith', 'Sam Wilson'],
     },
     {
       name: 'Jane Smith',
       location: 'New York',
-      photo: 'https://via.placeholder.com/100',
+      photo: '',
       friends: ['John Doe', 'Lucy Lee'],
     },
   ];
